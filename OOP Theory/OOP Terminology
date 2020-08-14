@@ -23,3 +23,27 @@ Note: A class has:
   i. Instance variables.
  ii. Methods.
 iii. Constructors.
+
+Method: It is a set of code which has a name and can be invoked at any point in a program by using its name.
+Advantage of method:
+   i. Code reusability.
+  ii. Code optimization.
+  
+ Constructor: It is a special method used to initialize an object. It is called when an object of a class is created.
+ Types of constructors:
+   i. No- argument constructor: If a constructor doesn't have any argument, it's known as no- argument constructor. 
+      It can be called default constructor.
+  ii. Parametrized constructor: If a constructor has any argument, it's known as paremeterized constructor. It provides 
+      different values to different constructor.
+  
+ Difference between Constructor and Method:
+   
+                    Constructor                 |                  Methods
+   a.    It is used to initialize the state of  |  a.   It is used to expose the behavior of 
+         an object.                             |       an object
+   b.    It doesn't have return type.           |  b.   It has a return type.
+   c.    Its name must be same as class name.   |  c.   Its name may or may not be same as a class name.
+         
+         
+  Does constructor return any value?
+  Yes, it returns current class instance. But it doesn't return any type.
