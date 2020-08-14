@@ -1,0 +1,49 @@
+Object Oriented Programming Language(OOP)
+List of Terminology in OOP:
+1. Objects      2. Class      3. Inheritance      4. Polymorphism     5. Abstraction      6. Encapsulation
+7. Coupling     8. Cohesion   9. Association     10. Aggregation     11. Composition
+
+Advantages of OOP:
+  i. Provides data hiding property.
+ ii. Development and maintance of codes are easier.
+ 
+Objects: It is defined as any entity that has state and behavior. Example: dog, pen.
+a. State of an object: It tells the properties of an object. Example: a dog has different properties such as
+   breed, color, etc.
+b. Behavior of an object: It is defined by methods of an object. Example: a dog barks, sleeps, so this barks(), 
+   sleeps() are the behavior of a dog.
+c. Identity of an object: It gives a unique name to an object. Example: a dog can have a name.
+
+Properties of an object:
+  i. It is an instance of a class.
+ ii. It is a real world entity and a run-time entity.
+ 
+Class: It is a blueprint for creating an object.
+Note: A class has:
+  i. Instance variables.
+ ii. Methods.
+iii. Constructors.
+
+Method: It is a set of code which has a name and can be invoked at any point in a program by using its name.
+Advantage of method:
+   i. Code reusability.
+  ii. Code optimization.
+  
+ Constructor: It is a special method used to initialize an object. It is called when an object of a class is created.
+ Types of constructors:
+   i. No- argument constructor: If a constructor doesn't have any argument, it's known as no- argument constructor. 
+      It can be called default constructor.
+  ii. Parametrized constructor: If a constructor has any argument, it's known as paremeterized constructor. It provides 
+      different values to different constructor.
+  
+ Difference between Constructor and Method:
+   
+                    Constructor                 |                  Methods
+   a.    It is used to initialize the state of  |  a.   It is used to expose the behavior of 
+         an object.                             |       an object
+   b.    It doesn't have return type.           |  b.   It has a return type.
+   c.    Its name must be same as class name.   |  c.   Its name may or may not be same as a class name.
+         
+         
+  Does constructor return any value?
+  Yes, it returns current class instance. But it doesn't return any type.
