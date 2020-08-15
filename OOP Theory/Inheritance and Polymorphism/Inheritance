@@ -1,0 +1,14 @@
+  Inheritance: It is a concept in Java OOP which allows to inherit the attributes and methods from one class to another class.
+  Inheritance has two categories:
+  i. Parent Class (sub-class): It is a class that is being inherited from.
+ ii. Child Class (super-class): It is a class that inherits the parent class.
+ 
+  Note: Inheritance represents "Is- A relationship" and to inherit properties of a parent class, child class has to use "extends" keyword.
+  
+  a. Why multiple inheritance is not possible?
+   - Multiple inheritance is not possible to reduce the complexity. For instance, we have 3 classes, A, B, and C. Class C inherits a method 
+     lets say, speed(). If class A and B both has method speed(). Compiler will not understand which method to call from those two classes 
+     and will create compiler error.
+     
+ 
+  
