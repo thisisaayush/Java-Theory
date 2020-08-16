@@ -10,5 +10,7 @@
      lets say, speed(). If class A and B both has method speed(). Compiler will not understand which method to call from those two classes 
      and will create compiler error.
      
+   Composition: It Implements "Has-A relationship" in a class.
+     
  
   
