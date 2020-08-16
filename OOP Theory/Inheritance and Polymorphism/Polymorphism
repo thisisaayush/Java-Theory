@@ -1,1 +1,20 @@
+  Polymorphism: It is a concept of Java OOP where single action is done in different ways. It occurs when classes are related to 
+  each other by inheritance.
+  For example: a class Animal{} has a method sound() and a class Dog{} which is an animal is related to Animal class and can inherit 
+  sound() method of Animal class and modify the content of sound() method according to Dog{} class necessity.
+ 
+  Types of Polymorphism:
+ i. Static polymorphism (Compile-time polymorphism): It is known as complie time polymorphism because the polymorphism is resolved during 
+ compile time. Example: method overloading.
+ii. Dynamic polymorphism (Run-time polymorphism): It is know as runtime polymorphism. It is a process in which a call to an overriden method 
+is resolved during a runtime. Example: method overriding.
 
+a. Difference between method overloading and method overriding.
+
+                       Method overloading                      |                   Method overriding
+         a.  It occurs when two or more method in a class have |    a.  If a child class has the same method as declared as in a parent 
+             same method name but different parameters.        |        class, it is known as method overriding.
+                                                               |
+         b.  Parameters must not be same.                      |    b.  Parameters must be same.  
+             
+           
