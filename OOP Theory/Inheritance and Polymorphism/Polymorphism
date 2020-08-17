@@ -6,15 +6,36 @@
   Types of Polymorphism:
  i. Static polymorphism (Compile-time polymorphism): It is known as complie time polymorphism because the polymorphism is resolved during 
  compile time. Example: method overloading.
-ii. Dynamic polymorphism (Run-time polymorphism): It is know as runtime polymorphism. It is a process in which a call to an overriden method 
-is resolved during a runtime. Example: method overriding.
+ii. Dynamic polymorphism (Run-time polymorphism/Dynamic Method Dispatch): It is know as runtime polymorphism. It is a process in which a call to 
+ an overriden method is resolved during a runtime. Example: method overriding.
 
 a. Difference between method overloading and method overriding.
 
                        Method overloading                      |                   Method overriding
-         a.  It occurs when two or more method in a class have |    a.  If a child class has the same method as declared as in a parent 
+         a.  It occurs when two or more method in a class have |   a.  If a child class has the same method as declared in a parent 
              same method name but different parameters.        |        class, it is known as method overriding.
                                                                |
-         b.  Parameters must not be same.                      |    b.  Parameters must be same.  
+         b.  Parameters must not be same.                      |   b.  Parameters must be same.  
+         
+ 
+ 
+   Keyword: It is a reserved word that has predefined meaning in a programming language. Programmers cannot use keyword as a name of variables,
+   methods, classes, or as any other identifiers.
+   Some additional information on keyword:
+  i. super keyword: It is used to access immediate parent class instance variables, methods, and constructors.
+ ii. this keyword: It is used to access current class instance variables, methods, and constructors.
+iii. final keyword: It is a non-access modifiers which is applicable only to variables, methods, and classes.
+        final class: It prevents inheritance.
+        final method: It prevents method overriding.
+        final variables: It creates constant variables.
+        
+  Binding: It refers to a mapping of one thing to another. For instance: connection between class and method.
+  Types of binding:
+  i. Static Binding (Early Binding): When the type of object is determined at compile time, it is known as static binding.
+     For instance: If there is any private, final or static method in a class, there is static binding. 
+ ii. Dynamic Binding (Late Binding): When the type of object is determined at run time, it is known as dynamic binding.
+     For instance: method overriding.
+     
+     
              
            
