@@ -37,5 +37,13 @@ iii. final keyword: It is a non-access modifiers which is applicable only to var
      For instance: method overriding.
      
      
+  Upcasting: If a child class reference object is assigned to a parent class, it is known as upcasting.
+      Syntax: Parent p = new Child();
+  Downcasting: If a parent class reference object is assignet to a child class, it is know as downcasting.
+      Syntax: Parent p = new Child();
+              Child c = (Child) p;
+              OR, 
+              Child c = (Child) new Parent();
+     
              
            
