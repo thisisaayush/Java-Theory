@@ -1,0 +1,19 @@
+  Abstraction: It is the process of hiding implementing details and showing essential information to user. 
+  For instance: a driver doesn't need to know all the internal functioning of the car. He just need to know
+  the external functioning of the car, so that he/she could drive.
+  
+  Note: Abstraction can be achieved with either abstact classes or interfaces.
+  
+  abstract keyword: It is a non-access modifier which is used for classes and methods.
+  
+  i. abstract class: abstract class can't be used to creat the object. It can be inherited and to access it,
+  it must be inherited. Note: final class can't be inherited.
+  
+  ii. abstract method: abstract method is only used in abstract class. It cannot have a body. Body of abstract 
+  method is provided by a child class.
+  
+  Point to Remember:
+  i. An abstract class is declared with abstract keyword.
+ ii. An abstract class can have both abstract and non-abstract methods.
+iii. An abstract class cannot be instantiated. A child class is used to instantiate it.
+ iv. An abstract class can have constructors and static and final methods.
