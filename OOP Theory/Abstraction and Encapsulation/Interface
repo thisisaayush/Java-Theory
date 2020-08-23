@@ -1,0 +1,8 @@
+  Interface: It is a blueprint that can be used to implement a class. It doesn't contain any concrete methods.
+  That means method doesn't have a body.
+  
+  Note: Inorder to access interfaces methods, the interface must be implemented by another class with the 
+  "implements" keyword.
+  
+  Question:
+  Why can we do multiple interface but not multiple inheritance?
