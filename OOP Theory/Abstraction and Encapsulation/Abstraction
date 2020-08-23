@@ -17,3 +17,15 @@
  ii. An abstract class can have both abstract and non-abstract methods.
 iii. An abstract class cannot be instantiated. A child class is used to instantiate it.
  iv. An abstract class can have constructors and static and final methods.
+
+
+ Abstract class: It is a class that has the abstract keyword in it's declaration. It should have at least one 
+ abstract method and it can have multiple concrete methods.
+ 
+ Note: Interface and abstract class cannot be instantiated. Classes that implement or extend interface or abstract 
+ class can be instantiated.
+ 
+ 
+ Difference between interface and abstract class.
+ 
+                                      Interface             |            Abstract class
