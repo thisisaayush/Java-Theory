@@ -28,4 +28,9 @@ iii. An abstract class cannot be instantiated. A child class is used to instanti
  
  Difference between interface and abstract class.
  
-                                      Interface             |            Abstract class
+                                      Interface               |               Abstract class
+                                      
+                     i. It can have only method without body. |     i. It can have abstract and non-abstract methods.
+                    ii. "interface" keyword is used.          |    ii. "abstract" keyword is used.
+                   iii. It uses "implements" keyword.         |   iii. It uses "extends" keyword.
+                    iv. It supports multiple interface.       |    iv. It doesn't support multiple inheritance.
