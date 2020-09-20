@@ -1,0 +1,19 @@
+Modifiers
+There are two types of modifiers in Java and they are:
+a. Access Modifiers: It controls the access level
+b. Non- Access Modifiers: It doesn't coltrol the access level, but provides other functionality.
+
+Access Modifiers: 
+  i. public: access level is everywhere (within and outside of class/packages).
+ ii. private: access level is only within the class. It can't be accessed from outside the class.
+iii. protected: access level is within a package and outside a pacakage through child class.
+ iv. default: access level is only within a package. If no access leve is defined, it will be default access modifier.
+ 
+Non- Access Modifiers:
+  i. final: 
+    a. variables: value of it can't be changed once assigned.
+    b. methods: it can't be overridden.
+    c. class: it can't be inherited.
+ ii. abstract:
+    a. methods: It can't have a body. Body is implemented by a subclass.
+    b. class: It contains abstract as w
