@@ -16,4 +16,5 @@ Non- Access Modifiers:
     c. class: it can't be inherited.
  ii. abstract:
     a. methods: It can't have a body. Body is implemented by a subclass.
-    b. class: It contains abstract as w
+    b. class: It contains abstract as well as concrete methods. The class cannot be used to create objects
+    (To access an abstract class, it must be inherited from another class).
