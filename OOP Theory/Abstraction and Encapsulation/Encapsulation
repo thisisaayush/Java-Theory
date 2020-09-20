@@ -2,4 +2,8 @@ Encapsulation: It is a mechanism of wrapping the data and code acting on data to
 It is also called Data Hiding. It make sure sensitive datas are hidden from users.
 
   To achieve encapsulation:
+  a. Declare class variables/attributes as private.
+  b. Provide public get and set methods to access and update the value of private variables.
+ 
+Note: The get method returns variables value and the set method sets the value.
   
