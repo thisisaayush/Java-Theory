@@ -1,0 +1,5 @@
+Encapsulation: It is a mechanism of wrapping the data and code acting on data together as a single unit.
+It is also called Data Hiding. It make sure sensitive datas are hidden from users.
+
+  To achieve encapsulation:
+  
