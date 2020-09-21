@@ -18,3 +18,5 @@ Non- Access Modifiers:
     a. methods: It can't have a body. Body is implemented by a subclass.
     b. class: It contains abstract as well as concrete methods. The class cannot be used to create objects
     (To access an abstract class, it must be inherited from another class).
+    
+    Some other non-access modifiers are static, transient, synchronized, volatile.
