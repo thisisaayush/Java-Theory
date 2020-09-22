@@ -1,0 +1,10 @@
+    Collection: It s a group of individual objects represented as a single unit. It is used to store and manipulate the group of objects.
+    
+    Hierarchy of Collection Frame work:
+      i. Set
+     ii. List
+    iii. Queue
+     iv. Dequeue
+     
+     
+     Map: It doesn't implement collection interface.
