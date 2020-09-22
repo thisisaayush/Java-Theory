@@ -23,4 +23,5 @@
         
    iii. Queue
         Features of Queue interface:
-          i.
+          i. It follows FIFO- First In First Out- principle, except for PriorityQueue where 
+             elements are processed based on priority.
