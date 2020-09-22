@@ -29,5 +29,6 @@
     iv. Deque
         Features of Deque interface: 
           i. It is called Double Ended Queue because elements can be inserted and removed at
-             bothends.
+             both ends. That means, it allows both LIFO and FIFO principle.
+       
              
