@@ -25,3 +25,9 @@
         Features of Queue interface:
           i. It follows FIFO- First In First Out- principle, except for PriorityQueue where 
              elements are processed based on priority.
+             
+    iv. Deque
+        Features of Deque interface: 
+          i. It is called Double Ended Queue because elements can be inserted and removed at
+             bothends.
+             
