@@ -13,6 +13,14 @@
         Features of Set interface: 
           i. It doesn't allow duplicates.
          ii. Elements are not ordered (TreeSet implements sorted set).
-        iii. Examples of set are: HashSet, LinkedHashSet, TreeSet
+        iii. Examples of set: HashSet, LinkedHashSet, TreeSet
         
     ii. List
+        Features of List interface:
+          i. It can contains duplicates.
+         ii. Elements are ordered.
+        iii. Examples of list: ArrayList, LinkedList
+        
+   iii. Queue
+        Features of Queue interface:
+          i.
