@@ -8,3 +8,11 @@
      
      
      Map: It doesn't implement collection interface.
+     
+     i. Set
+        Features of Set interface: 
+          i. It doesn't allow duplicates.
+         ii. Elements are not ordered (TreeSet implements sorted set).
+        iii. Examples of set are: HashSet, LinkedHashSet, TreeSet
+        
+    ii. List
