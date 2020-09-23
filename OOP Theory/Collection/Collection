@@ -30,5 +30,13 @@
         Features of Deque interface: 
           i. It is called Double Ended Queue because elements can be inserted and removed at
              both ends. That means, it allows both LIFO and FIFO principle.
+             
+     #. Map
+        Features of Map interface:
+          i. It can key value pairs.
+         ii. It doesn't allow duplicates.
+        iii. Examples: HashMap, TreeMap (implements Sorted Map)
+        
+    Note: Set has only keys whereas Map has key value pairs.
        
              
