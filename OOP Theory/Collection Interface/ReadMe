@@ -5,5 +5,23 @@
   
   Classes
    i. ArrayList: It is a dynamic array for sorting elements.
+      Features of ArrayList:
+        i. It can contains duplicate elements.
+       ii. It maintain insertion order.
+      iii. It allow random access.
+   
+   Syntax to create ArrayList: 
+         ArrayList<Data-Type> arrayList_name = new ArrayList<Data-Type>();
+         
+         
+         
+  ii. LinkedList: It uses doubly linked list to store elements.
+      Features of LinkedList:
+        i. It can contains duplicate elements.
+       ii. It maintain insertion order.
+      iii. Manipulation is fast because no shifting need to occur. 
       
+      
+   
  
+   
