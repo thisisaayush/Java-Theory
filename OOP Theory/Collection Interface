@@ -1,5 +1,0 @@
-  Collection Interface: It is the interface which is implemented by all the classes in the collection framework.
-  
-  Collection interfaces here are like List, Set, Queue, Deque.
-  Classes here are like ArrayList, LinkedList, HashSet, Vector, PriorityQueue.
- 
