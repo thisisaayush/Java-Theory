@@ -1,7 +1,7 @@
   Collection Interface: It is the interface which is implemented by all the classes in the collection framework.
   
   Collection interfaces here are like List, Set, Queue, Deque.
-  Classes here are like ArrayList, LinkedList, HashSet, Vector, PriorityQueue.
+  Collection classes here are like ArrayList, LinkedList, HashSet, Vector, PriorityQueue.
   
   Classes
    i. ArrayList: It is a dynamic array for sorting elements.
@@ -20,6 +20,18 @@
         i. It can contains duplicate elements.
        ii. It maintain insertion order.
       iii. Manipulation is fast because no shifting need to occur. 
+      
+    Syntax to create ArrayList: 
+         LinkedList<Data-Type> linkedList_name = new LinkedList<Data-Type>();
+         
+         
+   a. Difference between ArrayList and LinkedList:
+                        ArrayList            |          LinkedList
+             i. It is dynamic array to store |  i. It is doubly linked list to store
+                elements.                    |     elements.
+            ii. It is better for storing and | ii. It is better for manipulating data.
+                accessing data.              | 
+            
       
       
    
