@@ -4,6 +4,7 @@
   Collection classes here are like ArrayList, LinkedList, HashSet, Vector, PriorityQueue.
   
   Classes
+  #. List
    i. ArrayList: It is a dynamic array for sorting elements.
       Features of ArrayList:
         i. It can contains duplicate elements.
@@ -32,6 +33,12 @@
             ii. It is better for storing and | ii. It is better for manipulating data.
                 accessing data.              | 
             
+   1. ListIterator interface: It is used to travese the elements in a backward and forward direction.
+      Syntax: ListIterator<data-type> iteratorName = List_Name.listIterator();
+     
+  #. Set
+    i. 
+       
       
       
    
