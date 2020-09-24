@@ -37,7 +37,10 @@
       Syntax: ListIterator<data-type> iteratorName = List_Name.listIterator();
      
   #. Set
-    i. 
+    i. HashSet: It is used to create a collection that uses a hash table for storage.
+    Hashing: HashSet stores elements using a mechanism called hashing.
+    
+    ii. 
        
       
       
