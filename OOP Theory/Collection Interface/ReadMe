@@ -35,8 +35,11 @@
             
    1. ListIterator interface: It is used to travese the elements in a backward and forward direction.
       Syntax: ListIterator<data-type> iteratorName = List_Name.listIterator();
-     
+    
   #. Set
+     Syntax to create Set: 
+           Set<data-type> set_Name = new set_type_Name<data_type>();
+     
     i. HashSet: It is used to create a collection that uses a hash table for storage.
     Hashing: HashSet stores elements using a mechanism called hashing.
        Features of HashSet:
@@ -55,6 +58,11 @@
        a. It contains unique elements only.
        b. It doesn't allow null elements.
        c. It maintains ascending order.
+       
+  #. Queue
+     Syntax to create Queue: 
+            Queue<data_type> queue_name = new queue_type<data_type>();
+            
        
        
    
