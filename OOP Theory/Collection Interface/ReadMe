@@ -39,9 +39,19 @@
   #. Set
     i. HashSet: It is used to create a collection that uses a hash table for storage.
     Hashing: HashSet stores elements using a mechanism called hashing.
+       Features of HashSet:
+       a. It has unique elements only.
+       b. It allows null value.
+       c. It doesn't maintain insertion order.
     
-    ii. 
+   ii. LinkedHashSet: 
+       Features of LinkedHashSet:
+       a. It contains unique elements only.
+       b. It allows null elements.
+       c. It maintain insertion order.
        
+  iii. TreeSet
+       Features
       
       
    
