@@ -51,7 +51,13 @@
        c. It maintain insertion order.
        
   iii. TreeSet
-       Features
+       Features of TreeSet:
+       a. It contains unique elements only.
+       b. It doesn't allow null elements.
+       c. It maintains ascending order.
+       
+       
+   
       
       
    
