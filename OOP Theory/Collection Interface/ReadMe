@@ -73,6 +73,18 @@
      In Deque, we can add and delete elements from both ends.
      Syntax to create Deque: 
             Deque<data-type> deque_name = new Deque_Type<data_type>(); //Type like: ArrayDeque
+            
+      
+  #. Vector
+     It uses a dynamic array to store elements. It is synchronized and contains many methods that are
+     not part of collection framework.
+     Syntax to create Vector:
+            Vector<data_type> vector_name = new Vector<data_type>();
+            
+  #. Stack
+     It is a sub-class of vector. It implements "LIFO- Last In First Out" data structure.
+     Syntax to create Stack:
+            Stact<data_type> stack_name = new Stack<data_type>();
        
             
        
