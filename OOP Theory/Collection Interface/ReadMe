@@ -63,6 +63,13 @@
      Syntax to create Queue: 
             Queue<data_type> queue_name = new queue_type<data_type>();
             
+    i. PriorityQueue
+       Features of PriorityQueue:
+       a. It implements Queue interface.
+       b. It doesn't allow null valuesto be stored in a queue.
+       c. It holds elements or objects which are to be processed by their priorities.
+       
+            
        
        
    
