@@ -12,7 +12,7 @@
       iii. It allow random access.
    
    Syntax to create ArrayList: 
-         ArrayList<Data-Type> arrayList_name = new ArrayList<Data-Type>();
+          ArrayList<Data-Type> arrayList_name = new ArrayList<Data-Type>();
          
          
          
@@ -23,7 +23,7 @@
       iii. Manipulation is fast because no shifting need to occur. 
       
     Syntax to create ArrayList: 
-         LinkedList<Data-Type> linkedList_name = new LinkedList<Data-Type>();
+           LinkedList<Data-Type> linkedList_name = new LinkedList<Data-Type>();
          
          
    a. Difference between ArrayList and LinkedList:
@@ -38,7 +38,7 @@
     
   #. Set
      Syntax to create Set: 
-           Set<data-type> set_Name = new set_type_Name<data_type>();
+            Set<data-type> set_Name = new set_type_Name<data_type>();
      
     i. HashSet: It is used to create a collection that uses a hash table for storage.
     Hashing: HashSet stores elements using a mechanism called hashing.
