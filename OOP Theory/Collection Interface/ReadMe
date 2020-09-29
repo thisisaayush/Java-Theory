@@ -69,6 +69,11 @@
        b. It doesn't allow null valuesto be stored in a queue.
        c. It holds elements or objects which are to be processed by their priorities.
        
+  #. Deque 
+     In Deque, we can add and delete elements from both ends.
+     Syntax to create Deque: 
+            Deque<data-type> deque_name = new Deque_Type<data_type>(); //Type like: ArrayDeque
+       
             
        
        
