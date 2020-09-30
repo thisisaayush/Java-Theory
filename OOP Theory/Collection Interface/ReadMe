@@ -85,6 +85,10 @@
      It is a sub-class of vector. It implements "LIFO- Last In First Out" data structure.
      Syntax to create Stack:
             Stact<data_type> stack_name = new Stack<data_type>();
+            
+  #. Map
+     It contains values on the basisof key i.e key and value pair. Each keyand value pair is known as entry.
+     
        
             
        
