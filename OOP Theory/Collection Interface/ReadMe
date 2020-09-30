@@ -89,8 +89,12 @@
   #. Map
      It contains values on the basisof key i.e key and value pair. Each keyand value pair is known as entry.
      It contains unique key (doesn't allow duplicate key), but it can contain duplicate values.
+     Syntax to create Map:
+            Map<data-type(key), data-type(value)> map_name = new Map_type<key, value>();
      
      i. Entry in map: It is the sub-interface of Map. It provides methods to get key and value.
+     
+    
        
             
        
