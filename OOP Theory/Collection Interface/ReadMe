@@ -99,6 +99,7 @@
         
      
    #. Hashing: It is a process of converting an object into a integer value. The integer value helps in indexing and faster searches. 
+   #. Hash Collision: It occurs when the calculated index value is the same for two or more keys.
        
             
        
