@@ -41,7 +41,7 @@
             Set<data-type> set_Name = new set_type_Name<data_type>();
      
     i. HashSet: It is used to create a collection that uses a hash table for storage.
-    Hashing: HashSet stores elements using a mechanism called hashing.
+       HashSet stores elements using a mechanism called hashing.
        Features of HashSet:
        a. It has unique elements only.
        b. It allows null value.
@@ -98,7 +98,7 @@
         TreeMap(it is a sorted map), HashMap, LinkedHashMap
         
      
-    
+   #. Hashing: It is a process of converting an object into a integer value. The integer value helps in indexing and faster searches. 
        
             
        
