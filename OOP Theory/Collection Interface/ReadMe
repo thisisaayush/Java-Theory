@@ -94,6 +94,10 @@
      
      i. Entry in map: It is the sub-interface of Map. It provides methods to get key and value.
      
+   #. Hierarchy of Map:
+        TreeMap(it is a sorted map), HashMap, LinkedHashMap
+        
+     
     
        
             
