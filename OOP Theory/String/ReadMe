@@ -16,4 +16,13 @@
         Example: String obj2 = new String("Hello");
         
         
+    Note: 
+    Each time you create a string literal, the JVM checks the "String Constant Pool" first. If the string is already exists in the 
+    pool, a reference to the pool instance is returned. If the string doesn't exist in the pool, a new string instance is created and 
+    placed in the pool.
+    
+    Why does Java use the concept of String literal?
+    It is because it makes Java more memory efficient, if an object is already in the constant pool, no new object is created.
+        
+        
         
