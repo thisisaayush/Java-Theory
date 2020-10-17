@@ -1,1 +1,10 @@
-    String: 
+    String: It is an object that represents sequence of character.
+    
+    String class provides a lot of methods to perform operations on string such as compare(), concat(),
+    equals(), replace(), length(), etc.
+    
+    CharSequence Interface: It represents the sequence of characters. String, StringBuffer, StringBuilder classes 
+    implements it.
+    
+    Note: 
+    Java String is immutable. It means it cannot be changed.
