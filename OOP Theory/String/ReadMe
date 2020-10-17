@@ -7,4 +7,13 @@
     implements it.
     
     Note: 
-    Java String is immutable. It means it cannot be changed.
+    Java String is immutable. It means it cannot be changed. 
+    
+    There are two ways to create String object in Java:
+     i. By string literal It is created using double quote. 
+        Example: String obj1 = "Hello";
+    ii. By new keyword: In this case, JVM will create a new string object in normal (non-pool) heap memeory.
+        Example: String obj2 = new String("Hello");
+        
+        
+        
